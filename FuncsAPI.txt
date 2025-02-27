@@ -2048,7 +2048,7 @@ end
 repeat task.wait()
     local s, r = pcall(function()
         game:GetService("StarterGui"):SetCore("SendNotification", {
-            Title = "[ NEURA ] [ 1.6 ]",
+            Title = "[ NEURA ] [ 1.7 ]",
             Text = "Powered by discord.gg/getczk",
             Duration = 5,
             Icon = "rbxassetid://106632826520461"
